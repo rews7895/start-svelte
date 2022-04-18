@@ -1,11 +1,7 @@
 <script>
-	import Basics from './chapter01/Basics.svelte';
+	import Chapter01 from './chapter01/Chapter01.svelte';
 </script>
 
 <main>
-	<Basics/>
+	<Chapter01/>
 </main>
-
-<style>
-	
-</style>
