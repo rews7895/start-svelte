@@ -7,7 +7,7 @@
   import SelectBindings from './SelectBindings.svelte';
   import SelectMultiple from './SelectMultiple.svelte';
   import ContenteditableBindings from './ContenteditableBindings.svelte';
-  import EachBlockBindings from './TextInputs.svelte';
+  import EachBlockBindings from './EachBlockBindings.svelte';
   import MediaElements from './MediaElements.svelte';
   import Dimensions from './Dimensions.svelte';
   import This from './This.svelte';
