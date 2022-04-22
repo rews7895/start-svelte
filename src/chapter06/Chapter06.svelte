@@ -12,7 +12,7 @@
   import Dimensions from './Dimensions.svelte';
   import This from './This.svelte';
   import ComponentBindings from './ComponentBindings.svelte';
-  import BindingToComponentInstances from './MediaElements.svelte';
+  import BindingToComponentInstances from './BindingToComponentInstances.svelte';
 </script>
 
 <TextInputs/>
